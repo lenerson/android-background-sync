@@ -1,2 +1,1 @@
-# android-background-sync
-Android background sync example
+# Android Background Sync
